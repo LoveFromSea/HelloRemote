@@ -16,6 +16,7 @@
     <label>用户名:<input type="text" name="username"></label><br>
     <label>密&nbsp;&nbsp;码:<input type="password" name="pwd"></label><br>
     <input type="submit" value="登陆">&nbsp;<input type="reset" value="重置">
-</form>a
+    <input type="text" value="我就是不同?有意见？肉蛋葱鸡！">
+</form>
 </body>
 </html>
